@@ -1,6 +1,30 @@
 
 What is a protocol stack, and how is it used in web development?
+- Protocol stack is a standard for client-server communication in web development
+  The four layers are:
+    1. Application Layer
+    2. Transport Layer
+    3. Network layer
+    4. Link layer
+
 What are the different types of web servers, and how do they differ in terms of functionality and performance?
+- The different types of web servers are Nginx, Apache server, IIS, NodeJS etc.
+    The vary by the technology used, functionality and use cases.
+
 What is web hosting, and what are the different types of hosting services available for websites?
+- Web hosting is having a web site available on the internet
+    Types of hosting are:
+    1. Shared hosting
+    2. VPS hosting
+    3. Dedicated Server
+    4. Cloud hosting
+
+
 What is scaling, and why is it important for web applications? How does scaling differ for vertical and horizontal scaling?
+- Scaling is the process of adjusting the web server parameters based on the requirements.
+    Horizontal scaling : Increasing/Decreasing the number of servers in the network like cluster, Load balancers etc.
+    Vertical scaling : Increasing/Decresing the capacity of the server like RAM, Storage etc.
+
 What is SEO (Search Engine Optimization), and how can web developers optimize their websites for better search engine rankings?
+- SEO is the process withwhich the website could climb up the list on a search engine for a search criteria.
+    Web developers can optimize the websites by using neccessary meta tags, optimal semantics etc.
